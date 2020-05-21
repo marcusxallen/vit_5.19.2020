@@ -1,4 +1,4 @@
-# vit_5.20.2020
+# vit_5.19.2020
 
 Day 1 of [VetsinTech Fundamentals of Web Development Bootcamp](https://vetsintech.co/web-development/) via [Galvanize](https://www.galvanize.com/).
 
